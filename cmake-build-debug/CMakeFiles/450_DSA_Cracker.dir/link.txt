@@ -1,0 +1,3 @@
+C:\Users\yug39\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\450_DSA_Cracker.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\450_DSA_Cracker.dir/objects.a @CMakeFiles\450_DSA_Cracker.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\450_DSA_Cracker.dir/objects.a -Wl,--no-whole-archive -o 450_DSA_Cracker.exe -Wl,--out-implib,lib450_DSA_Cracker.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\450_DSA_Cracker.dir\linklibs.rsp

@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Linked_List/_0_Reverse_Linked_List.cpp">
+			<Option target="450_DSA_Cracker"/>
+		</Unit>
 		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/main.cpp">
 			<Option target="450_DSA_Cracker"/>
 		</Unit>

@@ -128,6 +128,30 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/build
 .PHONY : 450_DSA_Cracker/fast
 
+Linked_List/_0_Reverse_Linked_List.obj: Linked_List/_0_Reverse_Linked_List.cpp.obj
+.PHONY : Linked_List/_0_Reverse_Linked_List.obj
+
+# target to build an object file
+Linked_List/_0_Reverse_Linked_List.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.obj
+.PHONY : Linked_List/_0_Reverse_Linked_List.cpp.obj
+
+Linked_List/_0_Reverse_Linked_List.i: Linked_List/_0_Reverse_Linked_List.cpp.i
+.PHONY : Linked_List/_0_Reverse_Linked_List.i
+
+# target to preprocess a source file
+Linked_List/_0_Reverse_Linked_List.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.i
+.PHONY : Linked_List/_0_Reverse_Linked_List.cpp.i
+
+Linked_List/_0_Reverse_Linked_List.s: Linked_List/_0_Reverse_Linked_List.cpp.s
+.PHONY : Linked_List/_0_Reverse_Linked_List.s
+
+# target to generate assembly for a file
+Linked_List/_0_Reverse_Linked_List.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.s
+.PHONY : Linked_List/_0_Reverse_Linked_List.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 450_DSA_Cracker
+	@echo ... Linked_List/_0_Reverse_Linked_List.obj
+	@echo ... Linked_List/_0_Reverse_Linked_List.i
+	@echo ... Linked_List/_0_Reverse_Linked_List.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

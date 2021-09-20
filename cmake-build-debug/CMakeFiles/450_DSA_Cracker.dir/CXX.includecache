@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yug39/CLionProjects/450_DSA_Cracker/Linked_List/_0_Reverse_Linked_List.cpp
+bits/stdc++.h
+-
+

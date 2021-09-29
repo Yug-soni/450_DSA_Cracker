@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include "./ZZZ_Utils.h"
 
 //
 // Created by yug39 on 9/29/2021.
@@ -6,19 +7,17 @@
 
 using namespace std;
 
-void start();
-
-vector<int> get_vector();
+void start_finding_union_and_intersection();
 
 int find_union_count(vector<int> v1, vector<int> v2);
 
 int find_intersection_count(vector<int> v1, vector<int> v2);
 
-int main() {
-  start();
-}
+//int main() {
+//  start_finding_union_and_intersection();
+//}
 
-void start() {
+void start_finding_union_and_intersection() {
   vector<int> v1 = get_vector();
   vector<int> v2 = get_vector();
 
@@ -27,22 +26,6 @@ void start() {
 
   int i_count = find_intersection_count(v1, v2);
   cout << "Intersection count is ---->  " << i_count << endl;
-}
-
-vector<int> get_vector() {
-  int n = 0;
-  cin >> n;
-
-  vector<int> v;
-  for (int i = 0; i < n; ++i) {
-    int number;
-    cin >> number;
-    v.push_back(number);
-  }
-
-  sort(v.begin(), v.end());
-
-  return v;
 }
 
 int find_union_count(vector<int> v1, vector<int> v2) {

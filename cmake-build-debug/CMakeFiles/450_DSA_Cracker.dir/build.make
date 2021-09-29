@@ -117,12 +117,54 @@ CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_5_Union_And_Intersection.cpp -o CMakeFiles\450_DSA_Cracker.dir\Array\_5_Union_And_Intersection.cpp.s
 
+CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.obj: CMakeFiles/450_DSA_Cracker.dir/flags.make
+CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.obj: ../Array/_4_Move_All_Negative_To_One_Side.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\450_DSA_Cracker.dir\Array\_4_Move_All_Negative_To_One_Side.cpp.obj -c C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_4_Move_All_Negative_To_One_Side.cpp
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_4_Move_All_Negative_To_One_Side.cpp > CMakeFiles\450_DSA_Cracker.dir\Array\_4_Move_All_Negative_To_One_Side.cpp.i
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_4_Move_All_Negative_To_One_Side.cpp -o CMakeFiles\450_DSA_Cracker.dir\Array\_4_Move_All_Negative_To_One_Side.cpp.s
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.obj: CMakeFiles/450_DSA_Cracker.dir/flags.make
+CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.obj: ../Array/_3_Sort_Array_Of_012.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\450_DSA_Cracker.dir\Array\_3_Sort_Array_Of_012.cpp.obj -c C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_3_Sort_Array_Of_012.cpp
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_3_Sort_Array_Of_012.cpp > CMakeFiles\450_DSA_Cracker.dir\Array\_3_Sort_Array_Of_012.cpp.i
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_3_Sort_Array_Of_012.cpp -o CMakeFiles\450_DSA_Cracker.dir\Array\_3_Sort_Array_Of_012.cpp.s
+
+CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.obj: CMakeFiles/450_DSA_Cracker.dir/flags.make
+CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.obj: ../Array/ZZZ_Utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\450_DSA_Cracker.dir\Array\ZZZ_Utils.cpp.obj -c C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\ZZZ_Utils.cpp
+
+CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\ZZZ_Utils.cpp > CMakeFiles\450_DSA_Cracker.dir\Array\ZZZ_Utils.cpp.i
+
+CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\ZZZ_Utils.cpp -o CMakeFiles\450_DSA_Cracker.dir\Array\ZZZ_Utils.cpp.s
+
 # Object files for target 450_DSA_Cracker
 450_DSA_Cracker_OBJECTS = \
 "CMakeFiles/450_DSA_Cracker.dir/main.cpp.obj" \
 "CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.obj" \
 "CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.obj" \
-"CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.obj"
+"CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.obj" \
+"CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.obj" \
+"CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.obj" \
+"CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.obj"
 
 # External object files for target 450_DSA_Cracker
 450_DSA_Cracker_EXTERNAL_OBJECTS =
@@ -131,11 +173,14 @@ CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.s: cmake_forc
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.obj
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.obj
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.obj
+450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.obj
+450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.obj
+450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.obj
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/build.make
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/linklibs.rsp
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/objects1.rsp
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable 450_DSA_Cracker.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable 450_DSA_Cracker.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\450_DSA_Cracker.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

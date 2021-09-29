@@ -82,6 +82,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/ZZZ_Utils.cpp">
+			<Option target="450_DSA_Cracker"/>
+		</Unit>
+		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/ZZZ_Utils.h">
+			<Option target="450_DSA_Cracker"/>
+		</Unit>
+		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/_3_Sort_Array_Of_012.cpp">
+			<Option target="450_DSA_Cracker"/>
+		</Unit>
+		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/_4_Move_All_Negative_To_One_Side.cpp">
+			<Option target="450_DSA_Cracker"/>
+		</Unit>
 		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/_5_Union_And_Intersection.cpp">
 			<Option target="450_DSA_Cracker"/>
 		</Unit>

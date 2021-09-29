@@ -128,6 +128,78 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/build
 .PHONY : 450_DSA_Cracker/fast
 
+Array/ZZZ_Utils.obj: Array/ZZZ_Utils.cpp.obj
+.PHONY : Array/ZZZ_Utils.obj
+
+# target to build an object file
+Array/ZZZ_Utils.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.obj
+.PHONY : Array/ZZZ_Utils.cpp.obj
+
+Array/ZZZ_Utils.i: Array/ZZZ_Utils.cpp.i
+.PHONY : Array/ZZZ_Utils.i
+
+# target to preprocess a source file
+Array/ZZZ_Utils.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.i
+.PHONY : Array/ZZZ_Utils.cpp.i
+
+Array/ZZZ_Utils.s: Array/ZZZ_Utils.cpp.s
+.PHONY : Array/ZZZ_Utils.s
+
+# target to generate assembly for a file
+Array/ZZZ_Utils.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.s
+.PHONY : Array/ZZZ_Utils.cpp.s
+
+Array/_3_Sort_Array_Of_012.obj: Array/_3_Sort_Array_Of_012.cpp.obj
+.PHONY : Array/_3_Sort_Array_Of_012.obj
+
+# target to build an object file
+Array/_3_Sort_Array_Of_012.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.obj
+.PHONY : Array/_3_Sort_Array_Of_012.cpp.obj
+
+Array/_3_Sort_Array_Of_012.i: Array/_3_Sort_Array_Of_012.cpp.i
+.PHONY : Array/_3_Sort_Array_Of_012.i
+
+# target to preprocess a source file
+Array/_3_Sort_Array_Of_012.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.i
+.PHONY : Array/_3_Sort_Array_Of_012.cpp.i
+
+Array/_3_Sort_Array_Of_012.s: Array/_3_Sort_Array_Of_012.cpp.s
+.PHONY : Array/_3_Sort_Array_Of_012.s
+
+# target to generate assembly for a file
+Array/_3_Sort_Array_Of_012.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.s
+.PHONY : Array/_3_Sort_Array_Of_012.cpp.s
+
+Array/_4_Move_All_Negative_To_One_Side.obj: Array/_4_Move_All_Negative_To_One_Side.cpp.obj
+.PHONY : Array/_4_Move_All_Negative_To_One_Side.obj
+
+# target to build an object file
+Array/_4_Move_All_Negative_To_One_Side.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.obj
+.PHONY : Array/_4_Move_All_Negative_To_One_Side.cpp.obj
+
+Array/_4_Move_All_Negative_To_One_Side.i: Array/_4_Move_All_Negative_To_One_Side.cpp.i
+.PHONY : Array/_4_Move_All_Negative_To_One_Side.i
+
+# target to preprocess a source file
+Array/_4_Move_All_Negative_To_One_Side.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.i
+.PHONY : Array/_4_Move_All_Negative_To_One_Side.cpp.i
+
+Array/_4_Move_All_Negative_To_One_Side.s: Array/_4_Move_All_Negative_To_One_Side.cpp.s
+.PHONY : Array/_4_Move_All_Negative_To_One_Side.s
+
+# target to generate assembly for a file
+Array/_4_Move_All_Negative_To_One_Side.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.s
+.PHONY : Array/_4_Move_All_Negative_To_One_Side.cpp.s
+
 Array/_5_Union_And_Intersection.obj: Array/_5_Union_And_Intersection.cpp.obj
 .PHONY : Array/_5_Union_And_Intersection.obj
 
@@ -233,6 +305,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 450_DSA_Cracker
+	@echo ... Array/ZZZ_Utils.obj
+	@echo ... Array/ZZZ_Utils.i
+	@echo ... Array/ZZZ_Utils.s
+	@echo ... Array/_3_Sort_Array_Of_012.obj
+	@echo ... Array/_3_Sort_Array_Of_012.i
+	@echo ... Array/_3_Sort_Array_Of_012.s
+	@echo ... Array/_4_Move_All_Negative_To_One_Side.obj
+	@echo ... Array/_4_Move_All_Negative_To_One_Side.i
+	@echo ... Array/_4_Move_All_Negative_To_One_Side.s
 	@echo ... Array/_5_Union_And_Intersection.obj
 	@echo ... Array/_5_Union_And_Intersection.i
 	@echo ... Array/_5_Union_And_Intersection.s

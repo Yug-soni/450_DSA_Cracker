@@ -9,8 +9,8 @@
 
 #endif //INC_450_DSA_CRACKER_ZZZ_UTILS_H
 
-int *get_array();
+std::pair<int *, int> get_array();
 
-void print_array(int *array);
+void print_array(int *array, int length);
 
 std::vector<int> get_vector();

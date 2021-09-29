@@ -152,6 +152,30 @@ Array/ZZZ_Utils.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.s
 .PHONY : Array/ZZZ_Utils.cpp.s
 
+Array/_0_Reverse_The_Array.obj: Array/_0_Reverse_The_Array.cpp.obj
+.PHONY : Array/_0_Reverse_The_Array.obj
+
+# target to build an object file
+Array/_0_Reverse_The_Array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.obj
+.PHONY : Array/_0_Reverse_The_Array.cpp.obj
+
+Array/_0_Reverse_The_Array.i: Array/_0_Reverse_The_Array.cpp.i
+.PHONY : Array/_0_Reverse_The_Array.i
+
+# target to preprocess a source file
+Array/_0_Reverse_The_Array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.i
+.PHONY : Array/_0_Reverse_The_Array.cpp.i
+
+Array/_0_Reverse_The_Array.s: Array/_0_Reverse_The_Array.cpp.s
+.PHONY : Array/_0_Reverse_The_Array.s
+
+# target to generate assembly for a file
+Array/_0_Reverse_The_Array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.s
+.PHONY : Array/_0_Reverse_The_Array.cpp.s
+
 Array/_3_Sort_Array_Of_012.obj: Array/_3_Sort_Array_Of_012.cpp.obj
 .PHONY : Array/_3_Sort_Array_Of_012.obj
 
@@ -308,6 +332,9 @@ help:
 	@echo ... Array/ZZZ_Utils.obj
 	@echo ... Array/ZZZ_Utils.i
 	@echo ... Array/ZZZ_Utils.s
+	@echo ... Array/_0_Reverse_The_Array.obj
+	@echo ... Array/_0_Reverse_The_Array.i
+	@echo ... Array/_0_Reverse_The_Array.s
 	@echo ... Array/_3_Sort_Array_Of_012.obj
 	@echo ... Array/_3_Sort_Array_Of_012.i
 	@echo ... Array/_3_Sort_Array_Of_012.s

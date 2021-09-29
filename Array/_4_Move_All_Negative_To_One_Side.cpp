@@ -18,10 +18,10 @@ void move_negative_two_pointer_approach(int *arr, int length);
 //}
 
 void start_negative_moving() {
-  int *arr = get_array();
-//  move_negative(arr, sizeof(arr));
-  move_negative_two_pointer_approach(arr, sizeof(arr));
-  print_array(arr);
+  pair<int *, int> array = get_array();
+//  move_negative(array.first, array.second);
+  move_negative_two_pointer_approach(array.first, array.second);
+  print_array(array.first, array.second);
 }
 
 void move_negative(int *arr, int length) {

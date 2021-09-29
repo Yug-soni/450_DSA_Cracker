@@ -7,20 +7,20 @@ using namespace std;
 
 #include "ZZZ_Utils.h"
 
-int *get_array() {
+pair<int *, int> get_array() {
   int length;
   cin >> length;
-  int *arr = new int[length];
+  int *arr = new int[length]();
 
   for (int i = 0; i < length; ++i) {
     cin >> arr[i];
   }
 
-  return arr;
+  return make_pair(arr, length);
 }
 
-void print_array(int *array) {
-  for(int i=0; i<sizeof(array) ;++i) {
+void print_array(int *array, int length) {
+  for (int i = 0; i < length; ++i) {
     cout << array[i] << " ";
   }
   cout << endl;

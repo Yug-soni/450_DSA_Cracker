@@ -8,7 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/_5_Union_And_Intersection.cpp" "C:/Users/yug39/CLionProjects/450_DSA_Cracker/cmake-build-debug/CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.obj"
   "C:/Users/yug39/CLionProjects/450_DSA_Cracker/Linked_List/_0_Reverse_Linked_List.cpp" "C:/Users/yug39/CLionProjects/450_DSA_Cracker/cmake-build-debug/CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.obj"
+  "C:/Users/yug39/CLionProjects/450_DSA_Cracker/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp" "C:/Users/yug39/CLionProjects/450_DSA_Cracker/cmake-build-debug/CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.obj"
   "C:/Users/yug39/CLionProjects/450_DSA_Cracker/main.cpp" "C:/Users/yug39/CLionProjects/450_DSA_Cracker/cmake-build-debug/CMakeFiles/450_DSA_Cracker.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

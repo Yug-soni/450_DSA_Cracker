@@ -91,21 +91,51 @@ CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.s: cmake_f
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yug39\CLionProjects\450_DSA_Cracker\Linked_List\_0_Reverse_Linked_List.cpp -o CMakeFiles\450_DSA_Cracker.dir\Linked_List\_0_Reverse_Linked_List.cpp.s
 
+CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.obj: CMakeFiles/450_DSA_Cracker.dir/flags.make
+CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.obj: ../Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\450_DSA_Cracker.dir\Linked_List\_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.obj -c C:\Users\yug39\CLionProjects\450_DSA_Cracker\Linked_List\_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp
+
+CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\yug39\CLionProjects\450_DSA_Cracker\Linked_List\_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp > CMakeFiles\450_DSA_Cracker.dir\Linked_List\_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.i
+
+CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yug39\CLionProjects\450_DSA_Cracker\Linked_List\_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp -o CMakeFiles\450_DSA_Cracker.dir\Linked_List\_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.s
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.obj: CMakeFiles/450_DSA_Cracker.dir/flags.make
+CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.obj: ../Array/_5_Union_And_Intersection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\450_DSA_Cracker.dir\Array\_5_Union_And_Intersection.cpp.obj -c C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_5_Union_And_Intersection.cpp
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_5_Union_And_Intersection.cpp > CMakeFiles\450_DSA_Cracker.dir\Array\_5_Union_And_Intersection.cpp.i
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_5_Union_And_Intersection.cpp -o CMakeFiles\450_DSA_Cracker.dir\Array\_5_Union_And_Intersection.cpp.s
+
 # Object files for target 450_DSA_Cracker
 450_DSA_Cracker_OBJECTS = \
 "CMakeFiles/450_DSA_Cracker.dir/main.cpp.obj" \
-"CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.obj"
+"CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.obj" \
+"CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.obj" \
+"CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.obj"
 
 # External object files for target 450_DSA_Cracker
 450_DSA_Cracker_EXTERNAL_OBJECTS =
 
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/main.cpp.obj
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Linked_List/_0_Reverse_Linked_List.cpp.obj
+450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.obj
+450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.obj
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/build.make
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/linklibs.rsp
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/objects1.rsp
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable 450_DSA_Cracker.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable 450_DSA_Cracker.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\450_DSA_Cracker.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

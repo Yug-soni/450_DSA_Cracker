@@ -11,9 +11,9 @@ void start_reversing_the_array();
 
 void reverse_the_array(int *array, int length);
 
-int main() {
-  start_reversing_the_array();
-}
+//int main() {
+//  start_reversing_the_array();
+//}
 
 void start_reversing_the_array() {
   pair<int *, int> array = get_array();

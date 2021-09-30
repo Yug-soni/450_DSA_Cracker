@@ -176,6 +176,54 @@ Array/_0_Reverse_The_Array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.s
 .PHONY : Array/_0_Reverse_The_Array.cpp.s
 
+Array/_1_Find_Max_And_Min.obj: Array/_1_Find_Max_And_Min.cpp.obj
+.PHONY : Array/_1_Find_Max_And_Min.obj
+
+# target to build an object file
+Array/_1_Find_Max_And_Min.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.obj
+.PHONY : Array/_1_Find_Max_And_Min.cpp.obj
+
+Array/_1_Find_Max_And_Min.i: Array/_1_Find_Max_And_Min.cpp.i
+.PHONY : Array/_1_Find_Max_And_Min.i
+
+# target to preprocess a source file
+Array/_1_Find_Max_And_Min.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.i
+.PHONY : Array/_1_Find_Max_And_Min.cpp.i
+
+Array/_1_Find_Max_And_Min.s: Array/_1_Find_Max_And_Min.cpp.s
+.PHONY : Array/_1_Find_Max_And_Min.s
+
+# target to generate assembly for a file
+Array/_1_Find_Max_And_Min.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.s
+.PHONY : Array/_1_Find_Max_And_Min.cpp.s
+
+Array/_2_Find_Kth_Max_And_Min.obj: Array/_2_Find_Kth_Max_And_Min.cpp.obj
+.PHONY : Array/_2_Find_Kth_Max_And_Min.obj
+
+# target to build an object file
+Array/_2_Find_Kth_Max_And_Min.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.obj
+.PHONY : Array/_2_Find_Kth_Max_And_Min.cpp.obj
+
+Array/_2_Find_Kth_Max_And_Min.i: Array/_2_Find_Kth_Max_And_Min.cpp.i
+.PHONY : Array/_2_Find_Kth_Max_And_Min.i
+
+# target to preprocess a source file
+Array/_2_Find_Kth_Max_And_Min.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.i
+.PHONY : Array/_2_Find_Kth_Max_And_Min.cpp.i
+
+Array/_2_Find_Kth_Max_And_Min.s: Array/_2_Find_Kth_Max_And_Min.cpp.s
+.PHONY : Array/_2_Find_Kth_Max_And_Min.s
+
+# target to generate assembly for a file
+Array/_2_Find_Kth_Max_And_Min.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.s
+.PHONY : Array/_2_Find_Kth_Max_And_Min.cpp.s
+
 Array/_3_Sort_Array_Of_012.obj: Array/_3_Sort_Array_Of_012.cpp.obj
 .PHONY : Array/_3_Sort_Array_Of_012.obj
 
@@ -335,6 +383,12 @@ help:
 	@echo ... Array/_0_Reverse_The_Array.obj
 	@echo ... Array/_0_Reverse_The_Array.i
 	@echo ... Array/_0_Reverse_The_Array.s
+	@echo ... Array/_1_Find_Max_And_Min.obj
+	@echo ... Array/_1_Find_Max_And_Min.i
+	@echo ... Array/_1_Find_Max_And_Min.s
+	@echo ... Array/_2_Find_Kth_Max_And_Min.obj
+	@echo ... Array/_2_Find_Kth_Max_And_Min.i
+	@echo ... Array/_2_Find_Kth_Max_And_Min.s
 	@echo ... Array/_3_Sort_Array_Of_012.obj
 	@echo ... Array/_3_Sort_Array_Of_012.i
 	@echo ... Array/_3_Sort_Array_Of_012.s

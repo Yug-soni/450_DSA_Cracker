@@ -169,6 +169,32 @@ CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_0_Reverse_The_Array.cpp -o CMakeFiles\450_DSA_Cracker.dir\Array\_0_Reverse_The_Array.cpp.s
 
+CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.obj: CMakeFiles/450_DSA_Cracker.dir/flags.make
+CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.obj: ../Array/_1_Find_Max_And_Min.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\450_DSA_Cracker.dir\Array\_1_Find_Max_And_Min.cpp.obj -c C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_1_Find_Max_And_Min.cpp
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_1_Find_Max_And_Min.cpp > CMakeFiles\450_DSA_Cracker.dir\Array\_1_Find_Max_And_Min.cpp.i
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_1_Find_Max_And_Min.cpp -o CMakeFiles\450_DSA_Cracker.dir\Array\_1_Find_Max_And_Min.cpp.s
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.obj: CMakeFiles/450_DSA_Cracker.dir/flags.make
+CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.obj: ../Array/_2_Find_Kth_Max_And_Min.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\450_DSA_Cracker.dir\Array\_2_Find_Kth_Max_And_Min.cpp.obj -c C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_2_Find_Kth_Max_And_Min.cpp
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_2_Find_Kth_Max_And_Min.cpp > CMakeFiles\450_DSA_Cracker.dir\Array\_2_Find_Kth_Max_And_Min.cpp.i
+
+CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yug39\CLionProjects\450_DSA_Cracker\Array\_2_Find_Kth_Max_And_Min.cpp -o CMakeFiles\450_DSA_Cracker.dir\Array\_2_Find_Kth_Max_And_Min.cpp.s
+
 # Object files for target 450_DSA_Cracker
 450_DSA_Cracker_OBJECTS = \
 "CMakeFiles/450_DSA_Cracker.dir/main.cpp.obj" \
@@ -178,7 +204,9 @@ CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.s: cmake_force
 "CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.obj" \
 "CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.obj" \
 "CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.obj" \
-"CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.obj"
+"CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.obj" \
+"CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.obj" \
+"CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.obj"
 
 # External object files for target 450_DSA_Cracker
 450_DSA_Cracker_EXTERNAL_OBJECTS =
@@ -191,11 +219,13 @@ CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.s: cmake_force
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.obj
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.obj
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.obj
+450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.obj
+450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.obj
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/build.make
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/linklibs.rsp
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/objects1.rsp
 450_DSA_Cracker.exe: CMakeFiles/450_DSA_Cracker.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable 450_DSA_Cracker.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\yug39\CLionProjects\450_DSA_Cracker\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable 450_DSA_Cracker.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\450_DSA_Cracker.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

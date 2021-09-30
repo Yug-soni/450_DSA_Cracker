@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "450_DSA_Cracker.pdb"
   "CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.obj"
   "CMakeFiles/450_DSA_Cracker.dir/Array/_0_Reverse_The_Array.cpp.obj"
+  "CMakeFiles/450_DSA_Cracker.dir/Array/_1_Find_Max_And_Min.cpp.obj"
+  "CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.obj"
   "CMakeFiles/450_DSA_Cracker.dir/Array/_3_Sort_Array_Of_012.cpp.obj"
   "CMakeFiles/450_DSA_Cracker.dir/Array/_4_Move_All_Negative_To_One_Side.cpp.obj"
   "CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.obj"

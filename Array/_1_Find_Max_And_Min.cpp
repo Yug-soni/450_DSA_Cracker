@@ -11,9 +11,9 @@ void start_finding_max_and_min();
 
 pair<int, int> max_and_min(const int *arr, int length);
 
-int main() {
-  start_finding_max_and_min();
-}
+//int main() {
+//  start_finding_max_and_min();
+//}
 
 void start_finding_max_and_min() {
   pair<int *, int> array = get_array();

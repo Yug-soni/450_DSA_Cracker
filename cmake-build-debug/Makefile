@@ -128,30 +128,6 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/build
 .PHONY : 450_DSA_Cracker/fast
 
-Array/ZZZ_Utils.obj: Array/ZZZ_Utils.cpp.obj
-.PHONY : Array/ZZZ_Utils.obj
-
-# target to build an object file
-Array/ZZZ_Utils.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.obj
-.PHONY : Array/ZZZ_Utils.cpp.obj
-
-Array/ZZZ_Utils.i: Array/ZZZ_Utils.cpp.i
-.PHONY : Array/ZZZ_Utils.i
-
-# target to preprocess a source file
-Array/ZZZ_Utils.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.i
-.PHONY : Array/ZZZ_Utils.cpp.i
-
-Array/ZZZ_Utils.s: Array/ZZZ_Utils.cpp.s
-.PHONY : Array/ZZZ_Utils.s
-
-# target to generate assembly for a file
-Array/ZZZ_Utils.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/ZZZ_Utils.cpp.s
-.PHONY : Array/ZZZ_Utils.cpp.s
-
 Array/_0_Reverse_The_Array.obj: Array/_0_Reverse_The_Array.cpp.obj
 .PHONY : Array/_0_Reverse_The_Array.obj
 
@@ -223,6 +199,30 @@ Array/_2_Find_Kth_Max_And_Min.s: Array/_2_Find_Kth_Max_And_Min.cpp.s
 Array/_2_Find_Kth_Max_And_Min.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min.cpp.s
 .PHONY : Array/_2_Find_Kth_Max_And_Min.cpp.s
+
+Array/_2_Find_Kth_Max_And_Min_Using_Heap.obj: Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.obj
+.PHONY : Array/_2_Find_Kth_Max_And_Min_Using_Heap.obj
+
+# target to build an object file
+Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.obj
+.PHONY : Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.obj
+
+Array/_2_Find_Kth_Max_And_Min_Using_Heap.i: Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.i
+.PHONY : Array/_2_Find_Kth_Max_And_Min_Using_Heap.i
+
+# target to preprocess a source file
+Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.i
+.PHONY : Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.i
+
+Array/_2_Find_Kth_Max_And_Min_Using_Heap.s: Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.s
+.PHONY : Array/_2_Find_Kth_Max_And_Min_Using_Heap.s
+
+# target to generate assembly for a file
+Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.s
+.PHONY : Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp.s
 
 Array/_3_Sort_Array_Of_012.obj: Array/_3_Sort_Array_Of_012.cpp.obj
 .PHONY : Array/_3_Sort_Array_Of_012.obj
@@ -344,6 +344,30 @@ Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.s
 .PHONY : Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp.s
 
+ZZZ_Utils.obj: ZZZ_Utils.cpp.obj
+.PHONY : ZZZ_Utils.obj
+
+# target to build an object file
+ZZZ_Utils.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/ZZZ_Utils.cpp.obj
+.PHONY : ZZZ_Utils.cpp.obj
+
+ZZZ_Utils.i: ZZZ_Utils.cpp.i
+.PHONY : ZZZ_Utils.i
+
+# target to preprocess a source file
+ZZZ_Utils.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/ZZZ_Utils.cpp.i
+.PHONY : ZZZ_Utils.cpp.i
+
+ZZZ_Utils.s: ZZZ_Utils.cpp.s
+.PHONY : ZZZ_Utils.s
+
+# target to generate assembly for a file
+ZZZ_Utils.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/ZZZ_Utils.cpp.s
+.PHONY : ZZZ_Utils.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -377,9 +401,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 450_DSA_Cracker
-	@echo ... Array/ZZZ_Utils.obj
-	@echo ... Array/ZZZ_Utils.i
-	@echo ... Array/ZZZ_Utils.s
 	@echo ... Array/_0_Reverse_The_Array.obj
 	@echo ... Array/_0_Reverse_The_Array.i
 	@echo ... Array/_0_Reverse_The_Array.s
@@ -389,6 +410,9 @@ help:
 	@echo ... Array/_2_Find_Kth_Max_And_Min.obj
 	@echo ... Array/_2_Find_Kth_Max_And_Min.i
 	@echo ... Array/_2_Find_Kth_Max_And_Min.s
+	@echo ... Array/_2_Find_Kth_Max_And_Min_Using_Heap.obj
+	@echo ... Array/_2_Find_Kth_Max_And_Min_Using_Heap.i
+	@echo ... Array/_2_Find_Kth_Max_And_Min_Using_Heap.s
 	@echo ... Array/_3_Sort_Array_Of_012.obj
 	@echo ... Array/_3_Sort_Array_Of_012.i
 	@echo ... Array/_3_Sort_Array_Of_012.s
@@ -404,6 +428,9 @@ help:
 	@echo ... Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.obj
 	@echo ... Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.i
 	@echo ... Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.s
+	@echo ... ZZZ_Utils.obj
+	@echo ... ZZZ_Utils.i
+	@echo ... ZZZ_Utils.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

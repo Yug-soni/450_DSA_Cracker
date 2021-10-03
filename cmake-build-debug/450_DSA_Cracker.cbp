@@ -82,12 +82,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/ZZZ_Utils.cpp">
-			<Option target="450_DSA_Cracker"/>
-		</Unit>
-		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/ZZZ_Utils.h">
-			<Option target="450_DSA_Cracker"/>
-		</Unit>
 		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/_0_Reverse_The_Array.cpp">
 			<Option target="450_DSA_Cracker"/>
 		</Unit>
@@ -95,6 +89,9 @@
 			<Option target="450_DSA_Cracker"/>
 		</Unit>
 		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/_2_Find_Kth_Max_And_Min.cpp">
+			<Option target="450_DSA_Cracker"/>
+		</Unit>
+		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/_2_Find_Kth_Max_And_Min_Using_Heap.cpp">
 			<Option target="450_DSA_Cracker"/>
 		</Unit>
 		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Array/_3_Sort_Array_Of_012.cpp">
@@ -110,6 +107,12 @@
 			<Option target="450_DSA_Cracker"/>
 		</Unit>
 		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/Linked_List/_1_Reverse_Linked_List_In_Group_Of_Given_Sizes.cpp">
+			<Option target="450_DSA_Cracker"/>
+		</Unit>
+		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/ZZZ_Utils.cpp">
+			<Option target="450_DSA_Cracker"/>
+		</Unit>
+		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/ZZZ_Utils.h">
 			<Option target="450_DSA_Cracker"/>
 		</Unit>
 		<Unit filename="C:/Users/yug39/CLionProjects/450_DSA_Cracker/main.cpp">

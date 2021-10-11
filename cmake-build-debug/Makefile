@@ -296,6 +296,54 @@ Array/_5_Union_And_Intersection.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_5_Union_And_Intersection.cpp.s
 .PHONY : Array/_5_Union_And_Intersection.cpp.s
 
+Array/_6_Cyclically_Rotate_Array_By_One_.obj: Array/_6_Cyclically_Rotate_Array_By_One_.cpp.obj
+.PHONY : Array/_6_Cyclically_Rotate_Array_By_One_.obj
+
+# target to build an object file
+Array/_6_Cyclically_Rotate_Array_By_One_.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_6_Cyclically_Rotate_Array_By_One_.cpp.obj
+.PHONY : Array/_6_Cyclically_Rotate_Array_By_One_.cpp.obj
+
+Array/_6_Cyclically_Rotate_Array_By_One_.i: Array/_6_Cyclically_Rotate_Array_By_One_.cpp.i
+.PHONY : Array/_6_Cyclically_Rotate_Array_By_One_.i
+
+# target to preprocess a source file
+Array/_6_Cyclically_Rotate_Array_By_One_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_6_Cyclically_Rotate_Array_By_One_.cpp.i
+.PHONY : Array/_6_Cyclically_Rotate_Array_By_One_.cpp.i
+
+Array/_6_Cyclically_Rotate_Array_By_One_.s: Array/_6_Cyclically_Rotate_Array_By_One_.cpp.s
+.PHONY : Array/_6_Cyclically_Rotate_Array_By_One_.s
+
+# target to generate assembly for a file
+Array/_6_Cyclically_Rotate_Array_By_One_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_6_Cyclically_Rotate_Array_By_One_.cpp.s
+.PHONY : Array/_6_Cyclically_Rotate_Array_By_One_.cpp.s
+
+Array/_7_Kadane_s_Algorithm_.obj: Array/_7_Kadane_s_Algorithm_.cpp.obj
+.PHONY : Array/_7_Kadane_s_Algorithm_.obj
+
+# target to build an object file
+Array/_7_Kadane_s_Algorithm_.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_7_Kadane_s_Algorithm_.cpp.obj
+.PHONY : Array/_7_Kadane_s_Algorithm_.cpp.obj
+
+Array/_7_Kadane_s_Algorithm_.i: Array/_7_Kadane_s_Algorithm_.cpp.i
+.PHONY : Array/_7_Kadane_s_Algorithm_.i
+
+# target to preprocess a source file
+Array/_7_Kadane_s_Algorithm_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_7_Kadane_s_Algorithm_.cpp.i
+.PHONY : Array/_7_Kadane_s_Algorithm_.cpp.i
+
+Array/_7_Kadane_s_Algorithm_.s: Array/_7_Kadane_s_Algorithm_.cpp.s
+.PHONY : Array/_7_Kadane_s_Algorithm_.s
+
+# target to generate assembly for a file
+Array/_7_Kadane_s_Algorithm_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\450_DSA_Cracker.dir\build.make CMakeFiles/450_DSA_Cracker.dir/Array/_7_Kadane_s_Algorithm_.cpp.s
+.PHONY : Array/_7_Kadane_s_Algorithm_.cpp.s
+
 Linked_List/_0_Reverse_Linked_List.obj: Linked_List/_0_Reverse_Linked_List.cpp.obj
 .PHONY : Linked_List/_0_Reverse_Linked_List.obj
 
@@ -422,6 +470,12 @@ help:
 	@echo ... Array/_5_Union_And_Intersection.obj
 	@echo ... Array/_5_Union_And_Intersection.i
 	@echo ... Array/_5_Union_And_Intersection.s
+	@echo ... Array/_6_Cyclically_Rotate_Array_By_One_.obj
+	@echo ... Array/_6_Cyclically_Rotate_Array_By_One_.i
+	@echo ... Array/_6_Cyclically_Rotate_Array_By_One_.s
+	@echo ... Array/_7_Kadane_s_Algorithm_.obj
+	@echo ... Array/_7_Kadane_s_Algorithm_.i
+	@echo ... Array/_7_Kadane_s_Algorithm_.s
 	@echo ... Linked_List/_0_Reverse_Linked_List.obj
 	@echo ... Linked_List/_0_Reverse_Linked_List.i
 	@echo ... Linked_List/_0_Reverse_Linked_List.s

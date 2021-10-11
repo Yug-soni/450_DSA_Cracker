@@ -27,21 +27,21 @@ void start_finding_kth_max_and_min() {
 
 pair<int, int> kth_max_and_min_brute_force(const int *array, int length, int k) {
   pair<int, int> result = make_pair(INT_MAX, INT_MIN);
-  pair<int, int> left_bound = make_pair(INT_MIN, INT_MAX);
+  pair<int, int> bound = make_pair(INT_MIN, INT_MAX);
 
   for (int i = 0; i < k; ++i) {
     result.first = INT_MAX;
     result.second = INT_MIN;
     for (int j = 0; j < length; ++j) {
-      if (array[j] < result.first && array[j] > left_bound.first) {
+      if (array[j] < result.first && array[j] > bound.first) {
         result.first = array[j];
       }
-      if (array[j] > result.second && array[j] < left_bound.second) {
+      if (array[j] > result.second && array[j] < bound.second) {
         result.second = array[j];
       }
     }
-    left_bound.first = result.first;
-    left_bound.second = result.second;
+    bound.first = result.first;
+    bound.second = result.second;
   }
 
   return result;
